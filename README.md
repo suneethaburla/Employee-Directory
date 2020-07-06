@@ -10,7 +10,7 @@ This web application, built in React, allows the user to view non-sensitive info
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
-Here is the [link](https://employee-directory-react-node.herokuapp.com/)to the deployed application.
+Here is the [link](https://employee-directory-react-node.herokuapp.com/) to the deployed application.
 
 
 # APIs Used
