@@ -12,6 +12,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 Here is the [link](https://employee-directory-react-node.herokuapp.com/) to the deployed application.
 
+![alt homePage](src/assets/images/homepage.png)
 
 # APIs Used
 
